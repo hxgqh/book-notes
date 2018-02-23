@@ -4,3 +4,6 @@
 #### 邮箱：hxg@haomo-studio.com
 #### 微信二维码： 
 <img width=150 src="http://img.haomo-studio.com/hxg.png"/>
+
+
+* [未来简史](./a-brief-history-of-tomorrow.md)
